@@ -49,7 +49,7 @@ homepage:
           url: task-remove-storagegrid.html
     - title: StorageGRID documentation
       links:
-        - title: View the full set of StorageGRID documentation
+        - title: StorageGRID documentation for management outside of Cloud Manager
           url: https://docs.netapp.com/us-en/storagegrid-116/
     - title: Blogs & community
       links:

@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task-discovering-storagegrid.html
+permalink: task-discover-storagegrid.html
 keywords: storagegrid, cluster, discover, manage, discovering, discover storagegrid
 summary: Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID clusters to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
 ---
@@ -33,8 +33,6 @@ Cloud Manager can discover the StorageGRID systems in your on-premises environme
 Refer to the links above for more details.
 
 . On the _StorageGRID Cluster Details_ page, enter the domain name or IP address of the admin node, the credentials for the node, and then click *Add*.
-+
-image:screenshot_discover_ontap.png[A screenshot that shows an example of the ONTAP Cluster Details page: the cluster management IP address, user name and password.]
 
 .Result
 

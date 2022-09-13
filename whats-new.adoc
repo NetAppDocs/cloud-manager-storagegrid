@@ -18,6 +18,7 @@ Learn what's new with managing StorageGRID systems in Cloud Manager.
 // tag::whats-new[]
 == 18 September 2022
 
+=== Support for StorageGRID
 
-
+You can now discover your StorageGRID systems directly from Cloud Manager. Discovering StorageGRID provides you with a complete view of data across your hybrid multicloud.
 // end::whats-new[]
