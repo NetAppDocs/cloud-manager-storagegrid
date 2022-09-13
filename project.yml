@@ -17,7 +17,7 @@ sidebar:
       entries:
         - title: Discover your StorageGRID systems
           url: /task-discover-storagegrid.html
-    - title: Manage on-prem ONTAP clusters
+    - title: Manage StorageGRID systems
       entries:
         - title: View your StorageGRID systems
           url: /task-view-storagegrid.html
