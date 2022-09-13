@@ -17,6 +17,8 @@ Cloud Manager can discover the StorageGRID systems in your on-premises environme
 .What you'll need
 
 * A Connector installed in a cloud provider or on your premises, with network connectivity to the StorageGRID system.
++
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[Learn more about Connectors and how to create one^]
 
 * The domain name or IP address of the admin node.
 
@@ -36,4 +38,4 @@ Refer to the links above for more details.
 
 .Result
 
-Cloud Manager discovers the StorageGRID system and adds it to a working environment in the Canvas.
+Cloud Manager discovers the StorageGRID system and adds it as a working environment on the Canvas.
