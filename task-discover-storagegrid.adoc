@@ -12,7 +12,7 @@ summary: Cloud Manager can discover the StorageGRID systems in your on-premises 
 :linkattrs:
 :imagesdir: ./media/
 
-Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID clusters to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
 
 .What you'll need
 
