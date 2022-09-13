@@ -32,7 +32,7 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 
 . If you're prompted, create a Connector.
 +
-Refer to the links above for more details.
+Refer to the link above for more details.
 
 . On the _StorageGRID Cluster Details_ page, enter the domain name or IP address of the admin node, the credentials for the node, and then click *Add*.
 
