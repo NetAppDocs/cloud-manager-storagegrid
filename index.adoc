@@ -1,0 +1,14 @@
+---
+layout: astra
+sidebar: sidebar
+permalink: index.html
+lead: Discover your StorageGRID systems through Cloud Manager to get a complete view of data across your hybrid multicloud.
+summary: Discover your StorageGRID systems through Cloud Manager to get a complete view of data across your hybrid multicloud.
+---
+
+= StorageGRID documentation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/

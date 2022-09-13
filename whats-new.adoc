@@ -1,0 +1,23 @@
+---
+sidebar: sidebar
+permalink: whats-new.html
+keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, storagegrid
+summary: Learn what's new with managing StorageGRID systems in Cloud Manager.
+---
+
+= What's new with StorageGRID management
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Learn what's new with managing StorageGRID systems in Cloud Manager.
+
+// tag::whats-new[]
+== 18 September 2022
+
+
+
+// end::whats-new[]

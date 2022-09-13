@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: task-remove-storagegrid.html
+keywords: ontap, cluster, remove, delete, remove ontap cluster, remove onprem, delete cluster, delete working environment, remove working environment
+summary: Remove an on-premises ONTAP working environment if you no longer want to manage it from Cloud Manager.
+---
+
+= Remove an StorageGRID working environment
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Remove a StorageGRID working environment if you no longer want to manage it from Cloud Manager.
+
+Removing the working environment doesn't affect the StorageGRID system. You can rediscover it from Cloud Manager at any time.
+
+.Steps
+
+. From the Canvas, double-click the name of the StorageGRID working environment.
+
+. Click the menu icon and select *Remove from Workspace*.
++
+image:screenshot_remove_onprem.png[A screenshot that shows the menu in the top-right of the page and the Remove option.]
+
+. Click *Remove* to confirm.
