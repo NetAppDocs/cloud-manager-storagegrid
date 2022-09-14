@@ -13,16 +13,16 @@ summary: After you discover a StorageGRID system in Cloud Manager, you can use N
 :imagesdir: ./media/
 
 [.lead]
-After you discover a StorageGRID system in Cloud Manager, you can use NetApp's data services with StorageGRID for backups and data synchronization.
+After you discover a StorageGRID system in Cloud Manager, you can use NetApp's data services for backups and data synchronization.
 
-* Use Cloud Backup to back up data from your on-premises ONTAP systems to object storage in your NetApp StorageGRID systems.
+* Use *Cloud Backup* to back up data from your on-premises ONTAP systems to object storage in your NetApp StorageGRID systems.
 +
-To get started, drag and drop an on-premises ONTAP working environment on your StorageGRID working environment.
+To get started, go to the Canvas and drag and drop an on-premises ONTAP working environment on your StorageGRID working environment.
 +
 https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-backup-onprem-private-cloud.html[Learn more about backing up on-premises ONTAP data to StorageGRID^]
 
-* Use Cloud Sync to synchronize data to or from a StorageGRID system.
+* Use *Cloud Sync* to synchronize data to or from a StorageGRID system.
 +
-To get started, drag and drop the source working environment on the target working environment. StorageGRID can be either the source or target.
+To get started, go to the Canvas and drag and drop the source working environment on the target working environment. StorageGRID can be either the source or target.
 +
 https://docs.netapp.com/us-en/cloud-manager-sync/index.html[Learn more about Cloud Sync^]
