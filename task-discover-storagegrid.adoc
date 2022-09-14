@@ -35,7 +35,11 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 Refer to the link above for more details.
 
 . On the _StorageGRID Cluster Details_ page, enter the domain name or IP address of the admin node, the credentials for the node, and then click *Add*.
++
+image:screenshot-cluster-details.png[A screenshot that shows the StorageGRID Cluster Details page where you enter the domain name or IP address of the admin node and the credentials.]
 
 .Result
 
 Cloud Manager discovers the StorageGRID system and adds it as a working environment on the Canvas.
+
+image:screenshot-canvas.png[A screenshot that shows a StorageGRID working environment on the Cloud Manager Canvas.]
