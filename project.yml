@@ -45,6 +45,8 @@ homepage:
       links:
         - title: View your StorageGRID systems
           url: task-view-storagegrid.html
+        - title: Use NetApp data services with StorageGRID
+          url: task-enable-data-services.html
         - title: Remove StorageGRID
           url: task-remove-storagegrid.html
     - title: More information
