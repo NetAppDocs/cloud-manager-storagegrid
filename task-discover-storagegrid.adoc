@@ -1,0 +1,45 @@
+---
+sidebar: sidebar
+permalink: task-discover-storagegrid.html
+keywords: storagegrid, cluster, discover, manage, discovering, discover storagegrid
+summary: Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID clusters to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+---
+
+= Discover StorageGRID systems
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+
+.What you'll need
+
+* A Connector installed in a cloud provider or on your premises, with network connectivity to the StorageGRID system.
++
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[Learn more about Connectors and how to create one^]
+
+* The domain name or IP address of the admin node.
+
+* Admin credentials for the admin node.
+
+.Steps
+
+. From the Canvas, click *Add Working Environment* and select *On-Premises*.
+
+. Select *StorageGRID* and click *Next*.
+
+. If you're prompted, create a Connector.
++
+Refer to the link above for more details.
+
+. On the _StorageGRID Cluster Details_ page, enter the domain name or IP address of the admin node, the credentials for the node, and then click *Add*.
++
+image:screenshot-cluster-details.png[A screenshot that shows the StorageGRID Cluster Details page where you enter the domain name or IP address of the admin node and the credentials.]
+
+.Result
+
+Cloud Manager discovers the StorageGRID system and adds it as a working environment on the Canvas.
+
+image:screenshot-canvas.png[A screenshot that shows a StorageGRID working environment on the Cloud Manager Canvas.]
