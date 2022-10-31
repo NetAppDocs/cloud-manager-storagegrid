@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: whats-new.html
 keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, storagegrid
-summary: Learn what's new with managing StorageGRID systems in Cloud Manager.
+summary: Learn what's new with managing StorageGRID systems in BlueXP.
 ---
 
 = What's new with StorageGRID management
@@ -13,12 +13,12 @@ summary: Learn what's new with managing StorageGRID systems in Cloud Manager.
 :imagesdir: ./media/
 
 [.lead]
-Learn what's new with managing StorageGRID systems in Cloud Manager.
+Learn what's new with managing StorageGRID systems in BlueXP (formerly Cloud Manager).
 
 // tag::whats-new[]
 == 18 September 2022
 
 === Support for StorageGRID
 
-You can now discover your StorageGRID systems directly from Cloud Manager. Discovering StorageGRID provides you with a complete view of data across your hybrid multicloud.
+You can now discover your StorageGRID systems directly from BlueXP. Discovering StorageGRID provides you with a complete view of data across your hybrid multicloud.
 // end::whats-new[]
