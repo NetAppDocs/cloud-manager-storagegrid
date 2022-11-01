@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task-enable-data-services.html
 keywords: storagegrid, cloud sync, cloud backup, backup, back up data
-summary: After you discover a StorageGRID system in Cloud Manager, you can use NetApp's data services with StorageGRID for backups and data synchronization.
+summary: After you discover a StorageGRID system in BlueXP, you can use NetApp's data services with StorageGRID for backups and data synchronization.
 ---
 
 = Use NetApp data services with StorageGRID
@@ -13,7 +13,7 @@ summary: After you discover a StorageGRID system in Cloud Manager, you can use N
 :imagesdir: ./media/
 
 [.lead]
-After you discover a StorageGRID system in Cloud Manager, you can use NetApp's data services for backups and data synchronization.
+After you discover a StorageGRID system in BlueXP, you can use NetApp's data services for backups and data synchronization.
 
 * Use *Cloud Backup* to back up data from your on-premises ONTAP systems to object storage in your NetApp StorageGRID systems.
 +

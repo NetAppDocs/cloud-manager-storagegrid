@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task-discover-storagegrid.html
 keywords: storagegrid, cluster, discover, manage, discovering, discover storagegrid
-summary: Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID clusters to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+summary: BlueXP can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID clusters to BlueXP enables you to get a complete view of the data across your hybrid multicloud.
 ---
 
 = Discover StorageGRID systems
@@ -12,7 +12,7 @@ summary: Cloud Manager can discover the StorageGRID systems in your on-premises 
 :linkattrs:
 :imagesdir: ./media/
 
-Cloud Manager can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+BlueXP can discover the StorageGRID systems in your on-premises environment. Adding StorageGRID systems to BlueXP enables you to get a complete view of the data across your hybrid multicloud.
 
 .What you'll need
 
@@ -26,7 +26,9 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 
 .Steps
 
-. From the Canvas, click *Add Working Environment* and select *On-Premises*.
+. From the navigation menu, select *Storage > Canvas*.
+
+. Click *Add Working Environment* and select *On-Premises*.
 
 . Select *StorageGRID* and click *Next*.
 
@@ -40,6 +42,6 @@ image:screenshot-cluster-details.png[A screenshot that shows the StorageGRID Clu
 
 .Result
 
-Cloud Manager discovers the StorageGRID system and adds it as a working environment on the Canvas.
+BlueXP discovers the StorageGRID system and adds it as a working environment on the Canvas.
 
-image:screenshot-canvas.png[A screenshot that shows a StorageGRID working environment on the Cloud Manager Canvas.]
+image:screenshot-canvas.png[A screenshot that shows a StorageGRID working environment on the BlueXP Canvas.]
